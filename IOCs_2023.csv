@@ -34,7 +34,7 @@ DATEADDED,TYPE,INDICATOR,COMMENTAIRE
 2/4/2022,SHA256,bae9895ad4e392990a09b1b8a01e424a7ad3769e538ac693919d1b99989f0cb3,
 2/4/2022,SHA256,c6e092316f61d2fc9c84299dd224a6e419e74c98c51a44023f8f72530ac28fdc,
 2/4/2022,SHA256,cb0d151d930b17f6376c18aa15fd976eac53d6f07d065fc27c40b466e3bc49aa,
-2/4/2022,SHA256,6c93c1d6803c0b78bd4436673f6c51b683bc25bb4f1596d394f6ee2942c74369, donnee relle
+16/02/2023,SHA256,6c93c1d6803c0b78bd4436673f6c51b683bc25bb4f1596d394f6ee2942c74369, donnee relle
 2/12/2022,CMNDLINE,regsvr.32.exe /s CSIDL_WINDOWS\rba.dll,
 2/12/2022,CMNDLINE,cmd.exe /c net stop SQLsafe Backup Service /y, 
 2/12/2022,CMNDLINE,cmd.exe /c net stop SQLsafe Fitter Service /y,
@@ -91,7 +91,7 @@ DATEADDED,TYPE,INDICATOR,COMMENTAIRE
 2/4/2022,EMAIL,info@empiink.com,
 2/4/2022,EMAIL,narayanababu.py.ph@msruas.ac.in,
 2/4/2022,EMAIL,nshcorp@nshcorp.in,
-2/4/2022,EMAIL,duguay.mylene@colpron.com, donnee relle
+16/02/2023,EMAIL,duguay.mylene@colpron.com, donnee relle
 2/9/2022,URL,hxxps://nirsoft.me/nEDFzTtoCbUfp9BtSZlaq6ql8v6yYb/avp/amznussraps/,
 2/9/2022,URL,hxxps://nirsoft.me/s/2MYmbwpSJLZRAtXRgNTAUjJSH6SSoicLPIrQl/field-keywords/,
 2/9/2022,URL,hxxps://tinyurl.com/2p8kpb9v,
